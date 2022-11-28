@@ -85,8 +85,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* Condensed this down to a single class to reduce redundancy */
 
-.benefit-img { /* Condensed this down to a single class to reduce redundancy */
+.benefit-img {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -101,8 +102,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Condensed this down to a single class to reduce redundancy */
 
-.information {
+.information { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
